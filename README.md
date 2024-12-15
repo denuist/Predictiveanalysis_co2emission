@@ -58,8 +58,8 @@ Variabel yang paling berpengaruh dalam memprediksi emisi CO₂:
 ## Visualisasi Hasil
 
 ### **Perbandingan antara model Random Forest dan KNN untuk evaluasi kinerja berdasarkan metrik utama.**
-<img width="400" alt="Random forest Regressor after Tuned" src="https://github.com/user-attachments/assets/b8a3c952-dc83-4144-aa1a-0b5a600700c8" />
-<img width="400" alt="KNN after Tuned" src="https://github.com/user-attachments/assets/28c75acb-076b-43cb-a278-4c6e984e0a3a" />
+<img width="500" alt="Random forest Regressor after Tuned" src="https://github.com/user-attachments/assets/b8a3c952-dc83-4144-aa1a-0b5a600700c8" />
+<img width="500" alt="KNN after Tuned" src="https://github.com/user-attachments/assets/28c75acb-076b-43cb-a278-4c6e984e0a3a" />
 
 ### **Grafik tren prediksi menunjukkan kesesuaian antara data aktual dan hasil prediksi, terutama dalam tren penurunan emisi CO₂ setelah 2017.**
 ![gambar data aktual vs prediksi](https://github.com/user-attachments/assets/a92857f9-c809-4472-bfff-50d8a895a188)
