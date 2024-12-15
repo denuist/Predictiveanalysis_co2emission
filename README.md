@@ -46,8 +46,21 @@ Proyek ini mencakup langkah-langkah berikut:
 *Random Forest Regression* dipilih karena kinerjanya yang baik dalam menangkap hubungan non-linear dan toleransi terhadap fitur yang tidak relevan.
 
 ### Evaluasi Model
-- **R²**: 92.7% – Menunjukkan bahwa model dapat menjelaskan sebagian besar variabilitas dalam data.
-- **RMSE**: 0.17% – Error prediksi model cukup rendah.
+Setelah melakukan *hyperparameter tuning* pada kedua model, berikut adalah hasil evaluasi yang diperoleh untuk masing-masing model:
+
+- **Random Forest**:
+  - **R²**: 92.7%
+  - **RMSE**: 0.17%
+  - **MAE**: 0.12
+
+- **KNN**:
+  - **R²**: 85.3%
+  - **RMSE**: 0.23%
+  - **MAE**: 0.15
+
+### 🔮 Insight
+- **Random Forest** menunjukkan performa yang lebih baik setelah *hyperparameter tuning*, dengan **R²** yang lebih tinggi dan **RMSE** yang lebih rendah.
+- **KNN** meskipun cukup baik, memiliki performa yang lebih rendah dalam hal kemampuan untuk menjelaskan variabilitas data jika dibandingkan dengan *Random Forest*.
   
 ### Feature Importance
 Variabel yang paling berpengaruh dalam memprediksi emisi CO₂:
