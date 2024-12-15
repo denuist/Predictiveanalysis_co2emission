@@ -3,7 +3,7 @@
 ## Background / Problem Statement
 Emisi karbon dioksida (CO₂) adalah salah satu faktor utama dalam perubahan iklim global. Sebagai negara dengan ekonomi yang berkembang pesat di Eropa, Spanyol menghadapi tantangan besar dalam mengelola emisi karbon dari sektor industri, energi, dan transportasi.
 
-Proyek ini bertujuan untuk menganalisis tren emisi CO₂ di Spanyol selama 2010–2022, mengidentifikasi faktor-faktor utama yang mempengaruhi emisi, serta memprediksi tingkat emisi di masa depan menggunakan pendekatan pembelajaran mesin (*machine learning*). Hasil analisis ini diharapkan dapat memberikan wawasan untuk mendukung kebijakan keberlanjutan dan efisiensi energi.
+Project ini bertujuan untuk menganalisis tren emisi CO₂ di Spanyol selama 2010–2022, mengidentifikasi faktor-faktor utama yang mempengaruhi emisi, serta memprediksi tingkat emisi di masa depan menggunakan pendekatan pembelajaran mesin (*machine learning*). Hasil analisis ini diharapkan dapat memberikan wawasan untuk mendukung kebijakan keberlanjutan dan efisiensi energi.
 
 ## What is in the Project
 Proyek ini mencakup langkah-langkah berikut:
