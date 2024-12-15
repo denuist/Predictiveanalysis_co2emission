@@ -5,6 +5,22 @@ Emisi karbon dioksida (CO₂) adalah salah satu faktor utama dalam perubahan ikl
 
 Project ini bertujuan untuk menganalisis tren emisi CO₂ di Spanyol selama 2010–2022, mengidentifikasi faktor-faktor utama yang mempengaruhi emisi, serta memprediksi tingkat emisi di masa depan menggunakan pendekatan pembelajaran mesin (*machine learning*). Hasil analisis ini diharapkan dapat memberikan wawasan untuk mendukung kebijakan keberlanjutan dan efisiensi energi.
 
+## Dataset
+Dataset utama diambil dari real dataset yang bersumber pada https://data-explorer.oecd.org/. dengan cakupan waktu dari tahun 2010 - 2022 dengan referensi Negara Spanyol
+
+## Dashboard Link
+(https://lookerstudio.google.com/reporting/10db9fac-35bb-42b5-b9b7-21a660affd7d)
+
+## File Requirements
+pandas: Digunakan untuk manipulasi dan analisis data.
+numpy: Digunakan untuk operasi numerik.
+matplotlib: Untuk membuat visualisasi.
+scipy: Digunakan untuk operasi statistik (stats module).
+seaborn: Membuat visualisasi data yang lebih canggih.
+scikit-learn: Untuk model machine learning, preprocessing, dan evaluasi.
+imbalanced-learn: Untuk menangani data imbalance, misalnya SMOTE.
+statsmodels: Untuk analisis statistik seperti Variance Inflation Factor (VIF).
+
 ## What is in the Project
 Proyek ini mencakup langkah-langkah berikut:
 
