@@ -29,7 +29,7 @@ Proyek ini mencakup langkah-langkah berikut:
    - Melakukan eksplorasi variabel seperti intensitas energi, pajak lingkungan, dan konsumsi energi per kapita.
 
 ### 2. **Data Preparation**
-   - Membersihkan data, menangani nilai hilang, dan melakukan transformasi variabel.
+   - Membersihkan data, menangani nilai hilang,menghilangkan outliers dan melakukan transformasi variabel.
    - Menggunakan teknik seperti *SMOTE* untuk menangani ketidakseimbangan data.
 
 ### 3. **Modeling**
