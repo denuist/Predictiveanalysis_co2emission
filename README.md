@@ -12,14 +12,14 @@ Dataset utama diambil dari real dataset yang bersumber pada https://data-explore
 (https://lookerstudio.google.com/reporting/10db9fac-35bb-42b5-b9b7-21a660affd7d)
 
 ## 📋 File Requirements
-pandas: Digunakan untuk manipulasi dan analisis data.
-numpy: Digunakan untuk operasi numerik.
-matplotlib: Untuk membuat visualisasi.
-scipy: Digunakan untuk operasi statistik (stats module).
-seaborn: Membuat visualisasi data yang lebih canggih.
-scikit-learn: Untuk model machine learning, preprocessing, dan evaluasi.
-imbalanced-learn: Untuk menangani data imbalance, misalnya SMOTE.
-statsmodels: Untuk analisis statistik seperti Variance Inflation Factor (VIF).
+- **pandas**: Digunakan untuk manipulasi dan analisis data.
+- **numpy**: Digunakan untuk operasi numerik.
+- **matplotlib**: Untuk membuat visualisasi.
+- **scipy**: Digunakan untuk operasi statistik (stats module).
+- **seaborn**: Membuat visualisasi data yang lebih canggih.
+- **scikit-learn**: Untuk model machine learning, preprocessing, dan evaluasi.
+- **imbalanced-learn**: Untuk menangani data imbalance, misalnya SMOTE.
+- **statsmodels**: Untuk analisis statistik seperti Variance Inflation Factor (VIF).
 
 ## 📌 What is in the Project
 Proyek ini mencakup langkah-langkah berikut:
