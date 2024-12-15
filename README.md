@@ -1,4 +1,4 @@
-# Analisis Prediktif Emisi CO₂ di Spanyol (2010–2022)
+# Analisis Prediktif Penghasil Emisi CO₂ Berbasis Industri dan Ekonomi di Spanyol (2010–2022)
 
 ## Background / Problem Statement
 Emisi karbon dioksida (CO₂) adalah salah satu faktor utama dalam perubahan iklim global. Sebagai negara dengan ekonomi yang berkembang pesat di Eropa, Spanyol menghadapi tantangan besar dalam mengelola emisi karbon dari sektor industri, energi, dan transportasi.
