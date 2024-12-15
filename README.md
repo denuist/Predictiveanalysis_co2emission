@@ -9,7 +9,7 @@ Project ini bertujuan untuk menganalisis tren emisi CO₂ di Spanyol selama 2010
 Dataset utama diambil dari real dataset yang bersumber pada https://data-explorer.oecd.org/. dengan cakupan waktu dari tahun 2010 - 2022 dengan referensi Negara Spanyol
 
 ## 🌐 Dashboard Link
-(https://lookerstudio.google.com/reporting/10db9fac-35bb-42b5-b9b7-21a660affd7d)
+https://lookerstudio.google.com/reporting/10db9fac-35bb-42b5-b9b7-21a660affd7d
 
 ## 📋 File Requirements
 - **pandas**: Digunakan untuk manipulasi dan analisis data.
