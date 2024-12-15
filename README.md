@@ -56,8 +56,15 @@ Variabel yang paling berpengaruh dalam memprediksi emisi CO₂:
   - Intensitas energi: `NRG_INT`
 
 ### Visualisasi Hasil
-Grafik tren prediksi menunjukkan kesesuaian antara data aktual dan hasil prediksi, terutama dalam tren penurunan emisi CO₂ setelah 2017.
+
+**Perbandingan Model (Random Forest vs KNN)**
+![Model Comparison](path-to-your-image/model_comparison.png)
+*Perbandingan antara model Random Forest dan KNN untuk evaluasi kinerja berdasarkan metrik utama.*
+
+**Grafik tren prediksi menunjukkan kesesuaian antara data aktual dan hasil prediksi, terutama dalam tren penurunan emisi CO₂ setelah 2017.**
 ![gambar data aktual vs prediksi](https://github.com/user-attachments/assets/a92857f9-c809-4472-bfff-50d8a895a188)
+<img src="[path-to-your-image/data-actual-vs-prediction.png](https://github.com/user-attachments/assets/a92857f9-c809-4472-bfff-50d8a895a188)" alt="Data Actual vs Prediction" width="800"/>
+
 
 
 ## ✅ Conclusion
