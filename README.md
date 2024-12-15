@@ -43,7 +43,7 @@ Variabel yang paling berpengaruh dalam memprediksi emisi CO₂:
 Grafik tren prediksi menunjukkan kesesuaian antara data aktual dan hasil prediksi, terutama dalam tren penurunan emisi CO₂ setelah 2017.
 
 ## Conclusion
-Proyek ini menunjukkan bahwa pendekatan berbasis data dapat memberikan wawasan yang mendalam tentang faktor-faktor utama yang memengaruhi emisi karbon. Model prediktif seperti *Random Forest Regression* dapat digunakan untuk membantu pemerintah dan pembuat kebijakan:
+Project ini menunjukkan bahwa pendekatan berbasis data dapat memberikan wawasan yang mendalam tentang faktor-faktor utama yang memengaruhi emisi karbon. Model prediktif seperti *Random Forest Regression* dapat digunakan untuk membantu pemerintah dan pembuat kebijakan:
 
 1. Mengidentifikasi sektor yang perlu dioptimalkan untuk pengurangan emisi karbon.
 2. Mendukung inisiatif keberlanjutan, seperti transisi ke energi terbarukan dan kebijakan pajak lingkungan yang lebih efektif.
